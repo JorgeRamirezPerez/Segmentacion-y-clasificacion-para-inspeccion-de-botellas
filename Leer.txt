@@ -1,0 +1,11 @@
+Hola,
+
+Este proyecto se realizó una segmentación en matlab usando superpixels y luego kmeans para ajustar los colores.
+
+posteriormente se usaron las imagenes guardadas resultantes del codigo en una carpeta de validación y entrenamiento para la red neuronal
+(en la carpeta de clasificacion Python ya estan divididas mitad para entrenamiento y mitad para validacion)
+
+La carpeta test es la que se usara para ver si la red neuronal es capaz de detectar la clase y decirla correctamente. 
+
+Muchas Gracias.
+
